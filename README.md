@@ -1,4 +1,4 @@
-### 你好呀！我系 [Allen！](https://allentango.github.io) 🤣
+### 你好呀！我系 [Allen！](https://github.com/AllenTango) 🤣
 
 ---
 
