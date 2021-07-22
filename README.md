@@ -3,13 +3,7 @@
 ---
 
 ```python
-print("Hello, World!")
+print("你好呀！👋")
 ```
 
 ---
-
-![Allen's github stats](https://github-readme-stats.vercel.app/api?username=allentango&show_icons=true&theme=cobalt)
-
----
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=allentango&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
